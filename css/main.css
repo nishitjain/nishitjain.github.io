@@ -42,10 +42,4 @@ ul.posts li {
     list-style: none;
 }
 
-.copyright {
-    float: left;
-}
-
-.social { 
-    float: right;
-}
+.alignleft{float:left}.alignright{float:right}
