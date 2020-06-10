@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building A Movie Recommendation Engine Using Pandas"
-date: 2019-04-26
+date: 2019-04-21
 ---
 
 Exploring the basic intuition behind the recommendation engines.
